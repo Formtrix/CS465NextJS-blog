@@ -5,7 +5,9 @@ date: "2025-02-14"
 
 **JWT (JSON Web Token)** is a mechanism that is often used in **REST APIs**, it can be found in popular standards, such as OpenID Connect, but we will also encounter it sometimes using OAuth2. It is used both in large companies and smaller organisations. There are many libraries available that support JWT, and the standard itself has “rich support for cryptographic mechanisms”. Does all this mean JWT is inherently safe? Let’s see.
 
-- **Introduction to JWT** JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure (…)
+**Introduction to JWT** <br>
+
+JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure (…)
 
 Simply put, JWT is a sequence of characters in JSON format (https://www.json.org/) encoded in JWS (JSON Web Signature) or JWE (JSON Web Encryption) structure. Besides, each of these options must be serialized in a compact way (one of the two serializations in JWS and JWE). **Most often you can see JWS, and it is this structure that is popularly called JWT**. In turn, “claim” is usually a simple pair of “key” : “value”.
 

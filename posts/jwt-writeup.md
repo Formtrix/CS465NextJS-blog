@@ -3,7 +3,7 @@ title: "JWT (JSON Web Token) in Software Security"
 date: "2025-02-14"
 ---
 
-**JWT (JSON Web Token)** is a widely used mechanism in **REST APIs** and is commonly found in standards like **OpenID Connect** and, at times **OAuth2**. It is adopted by both large enterprises and smaller organizations. It has extensive library support and a standard that boasts robust cryptographic mechanisms. <br>
+**JWT (JSON Web Token)** is a widely used mechanism in **REST APIs** and it is commonly found in standards like **OpenID Connect** and, at times **OAuth2**. It is adopted by both large enterprises and smaller organizations. It has extensive library support and a standard that boasts robust cryptographic mechanisms. <br>
 
 Does this make JWT inherently secure? Let’s find out.
 

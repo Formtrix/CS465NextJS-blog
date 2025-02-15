@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>
           Hello, I'm <strong>Keny</strong>, I'm a software developer.
           This is a blog website - where I write down topics I'm interested in {' '}
-          <a href="https://nextjs-blog-reactnextjs.vercel.app/"> as a blog </a>.
+          <a href="https://cs-465-next-js-blog.vercel.app"> as a blog </a>.
           Let's chat → <a href="mailto:kennedy.u@linuxmail.org">kennedy.u@linuxmail.org</a>
         </p>
       </section>

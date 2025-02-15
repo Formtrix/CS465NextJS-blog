@@ -99,3 +99,13 @@ When using JWTs, it's crucial to be aware of certain security concerns to ensure
 **Fix:** Always enforce a specific algorithm (RS256 for RSA) and properly separate public/private key usage.
 
 _Security is embbeded in practice, the tools help us enforce it_
+
+**_Resources_** <br>
+
+[www.jwt.io](https://jwt.io/) <br>
+
+[www.json.org](https://www.json.org/) <br>
+
+[auth0.com on JWT(JWT Handbook)](https://auth0.com/resources/ebooks/jwt-handbook) <br>
+
+[JWT Cheat Sheet for Java(OWASP)](<https://www.owasp.org/index.php/JSON_Web_Token_(JWT)_Cheat_Sheet_for_Java>) <br>

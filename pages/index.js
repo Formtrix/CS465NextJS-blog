@@ -21,10 +21,11 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm <strong>Keny</strong>, I'm a software developer. Lets chat → kennedy.u@linuxmail.org </p>
         <p>
+          Hello, I'm <strong>Keny</strong>, I'm a software developer.
           This is a blog website - where I write down topics I'm interested in {' '}
           <a href="https://nextjs-blog-reactnextjs.vercel.app/"> as a blog </a>.
+          Let's chat → <a href="mailto:kennedy.u@linuxmail.org">kennedy.u@linuxmail.org</a>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

@@ -35,3 +35,15 @@ img {
   max-width: 100%;
   display: block;
 }
+
+/* Global styles for inline code */
+code {
+  background-color: #f7eeee;
+  /* Light gray background */
+  color: #370e1f97;
+  /* Pinkish text color */
+  padding: 2px 5px;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 0.95em;
+}

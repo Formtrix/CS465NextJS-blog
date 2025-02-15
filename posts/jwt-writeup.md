@@ -98,7 +98,7 @@ When using JWTs, it's crucial to be aware of certain security concerns to ensure
 
 **Fix:** Always enforce a specific algorithm (RS256 for RSA) and properly separate public/private key usage.
 
-_Security is embbeded in practice, the tools help us enforce it_
+_Security is embedded in practice, the tools help us enforce it_
 
 **_Resources_** <br>
 
